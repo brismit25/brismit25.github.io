@@ -28,27 +28,27 @@ To leverage my IT experience, certifications, and growing cybersecurity expertis
 ##### Network
 
 <div>
-*   Network Tool logo.
-*   Network Tool logo.
-*   Network Tool logo.
+Network Tool logo.
+Network Tool logo.
+Network Tool logo.
 </div>
 
 ##### Endpoint
 
 <div>
-*   Endpoint Tool logo.
-*   Endpoint Tool logo.
-*   Endpoint Tool logo.
+Endpoint Tool logo.
+Endpoint Tool logo.
+Endpoint Tool logo.
 </div>
 
 ##### SIEM
 
 <div>
-*   SIEM Tool logo.
-*   SIEM Tool logo.
-*   SIEM Tool logo.
+SIEM Tool logo.
+SIEM Tool logo.
+SIEM Tool logo.
 </div>
 
 #### Projects
 
--Home Lab Setup
+- Home Lab Setup
