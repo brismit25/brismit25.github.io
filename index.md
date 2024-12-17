@@ -26,7 +26,6 @@ To leverage my IT experience, certifications, and growing cybersecurity expertis
 [Provide tools and break them down into categories.]
 
 ##### Network
-
 <div>
 Network Tool logo.
 Network Tool logo.
@@ -34,7 +33,6 @@ Network Tool logo.
 </div>
 
 ##### Endpoint
-
 <div>
 Endpoint Tool logo.
 Endpoint Tool logo.
@@ -42,12 +40,11 @@ Endpoint Tool logo.
 </div>
 
 ##### SIEM
-
 <div>
 SIEM Tool logo.
 SIEM Tool logo.
 SIEM Tool logo.
-</div>
+</div><br>
 
 #### Projects
 
