@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Header 1
+# Introduction
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I'm an aspiring cybersecurity professional with a solid foundation in IT support, incident response, and problem-solving. Currently, I am pursuing a Bachelor's degree in Cybersecurity at The University of Southern Mississippi and hold CompTIA A+, Network+, and Security+ certifications, which have equipped me with essential skills to navigate the evolving world of cybersecurity.
+
+This portfolio showcases my projects, certifications, and continuous progress as I develop expertise in threat detection, threat analysis, network security, and system hardening. I am passionate about securing systems, mitigating risks, and contributing to a safer digital landscape.
 
 # Header 2
 
