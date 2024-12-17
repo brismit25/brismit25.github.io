@@ -8,7 +8,7 @@ I’m an aspiring cybersecurity professional with a solid foundation in IT suppo
 
 This portfolio highlights my projects, certifications, and continuous progress as I develop expertise in threat detection, network security, and system hardening. I’m passionate about securing systems, mitigating risks, and contributing to a safer digital world.
 
-## Objective
+### Objective
 
 To leverage my IT experience, certifications, and growing cybersecurity expertise to secure a Cybersecurity Analyst role. My goal is to contribute to threat detection, risk mitigation, and system security while continuously enhancing my skills to protect organizational assets against evolving cyber threats.
 
