@@ -4,13 +4,13 @@ layout: default
 
 # Introduction
 
-I’m an aspiring cybersecurity professional with a solid foundation in <strong>IT support, incident response, and problem-solving</strong>. Currently, I’m pursuing a Bachelor’s degree in Cybersecurity at The University of Southern Mississippi and hold CompTIA A+, Network+, and Security+ certifications. These achievements have equipped me with the essential skills to navigate the ever-evolving landscape of cybersecurity.
+I’m an aspiring cybersecurity professional with a solid foundation in <strong>IT support, incident response, and problem-solving</strong>. Currently, I’m pursuing a <strong>Bachelor’s degree in Cybersecurity</strong> at <em>The University of Southern Mississippi</em> and hold <strong>CompTIA A+, Network+, and Security+ certifications</strong>. These achievements have equipped me with the essential skills to navigate the ever-evolving landscape of cybersecurity.
 
-This portfolio highlights my projects, certifications, and continuous progress as I develop expertise in threat detection, network security, and system hardening. I’m passionate about securing systems, mitigating risks, and contributing to a safer digital world.
+This portfolio highlights <strong>my projects, certifications, and continuous progress</strong> as I develop expertise in <strong>threat detection, network security, and system hardening</strong>. I’m passionate about securing systems, mitigating risks, and contributing to a safer digital world.
 
 ## Objective
 
-To leverage my IT experience, certifications, and growing cybersecurity expertise to secure a Cybersecurity Analyst role. My goal is to contribute to threat detection, risk mitigation, and system security while continuously enhancing my skills to protect organizational assets against evolving cyber threats.
+To leverage <strong>my IT experience, certifications, and growing cybersecurity expertise</strong> to secure a <strong>Cybersecurity Analyst role</strong>. My goal is to contribute to <strong>threat detection, risk mitigation, and system security</strong> while continuously enhancing my skills to protect organizational assets against evolving cyber threats.
 
 ## Header 3
 
