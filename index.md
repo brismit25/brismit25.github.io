@@ -17,9 +17,9 @@ To leverage my IT experience, certifications, and growing cybersecurity expertis
 | Skill | Associated Project |
 |:------------- |:------------------ |
 | Home SOC Lab Setup | In progress |
-| Network Scanning with NMap | In progress |
-| Vulnerability Scanning with Burp Suite | In progress |
-| Analyze Network Packets with Wireshark | In progress |
+| Network Scanning with NMap | Future Project |
+| Vulnerability Scanning with Burp Suite | Future Project |
+| Analyze Network Packets with Wireshark | Future Project |
 
 #### Tools
 
