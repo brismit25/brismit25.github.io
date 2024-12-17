@@ -4,17 +4,15 @@ layout: default
 
 # Introduction
 
-I'm an aspiring cybersecurity professional with a solid foundation in IT support, incident response, and problem-solving. Currently, I am pursuing a Bachelor's degree in Cybersecurity at The University of Southern Mississippi and hold CompTIA A+, Network+, and Security+ certifications, which have equipped me with essential skills to navigate the evolving world of cybersecurity.
+I’m an aspiring cybersecurity professional with a solid foundation in IT support, incident response, and problem-solving. Currently, I’m pursuing a Bachelor’s degree in Cybersecurity at The University of Southern Mississippi and hold CompTIA A+, Network+, and Security+ certifications. These achievements have equipped me with the essential skills to navigate the ever-evolving landscape of cybersecurity.
 
-This portfolio showcases my projects, certifications, and continuous progress as I develop expertise in threat detection, threat analysis, network security, and system hardening. I am passionate about securing systems, mitigating risks, and contributing to a safer digital landscape.
+This portfolio highlights my projects, certifications, and continuous progress as I develop expertise in threat detection, network security, and system hardening. I’m passionate about securing systems, mitigating risks, and contributing to a safer digital world.
 
-# Header 2
+## Objective
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+To leverage my IT experience, certifications, and growing cybersecurity expertise to secure a Cybersecurity Analyst role. My goal is to contribute to threat detection, risk mitigation, and system security while continuously enhancing my skills to protect organizational assets against evolving cyber threats.
 
-# Header 3
+## Header 3
 
 ```js
 // Javascript code with syntax highlighting.
