@@ -21,12 +21,6 @@ To leverage my IT experience, certifications, and growing cybersecurity expertis
 | Test | <a href="https://google.com">Test Link</a> |
 | Test | <a href="https://google.com">Test Link</a> |
 
-#### Certifications
-
-<a href="certifications/CompTIA A+.png"><img src="https://img.shields.io/badge/-CompTIA%20A+-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="certifications/CompTIA Network+.png"><img src="https://img.shields.io/badge/-CompTIA%20Network+-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="certifications/CompTIA Security+.png"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
-
 #### Tools
 
 [Provide tools and break them down into categories.]
