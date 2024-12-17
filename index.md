@@ -18,6 +18,15 @@ To leverage my IT experience, certifications, and growing cybersecurity expertis
 <a href="certifications/CompTIA Network+.png"><img src="https://img.shields.io/badge/-CompTIA%20Network+-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
 <a href="certifications/CompTIA Security+.png"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
 
+#### Skills
+
+| Skill        | Associated Project|
+|:-------------|:------------------|
+| ok           | good swedish fish |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
+
 #### Header 3
 
 ```js
@@ -46,15 +55,6 @@ end
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
-
-#### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 #### There's a horizontal rule below this.
 
