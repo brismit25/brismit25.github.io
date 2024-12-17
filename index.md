@@ -48,4 +48,4 @@ SIEM Tool logo.
 
 #### Projects
 
-- Home Lab Setup
+**Projects under development**
