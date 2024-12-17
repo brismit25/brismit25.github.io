@@ -16,36 +16,27 @@ To leverage my IT experience, certifications, and growing cybersecurity expertis
 
 | Skill | Associated Project |
 |:------------- |:------------------ |
-| Test | <a href="https://google.com">Test Link</a> |
-| Test | <a href="https://google.com">Test Link</a> |
-| Test | <a href="https://google.com">Test Link</a> |
-| Test | <a href="https://google.com">Test Link</a> |
+| Home SOC Lab Setup | In progress |
+| Network Scanning with NMap | In progress |
+| Vulnerability Scanning with Burp Suite | In progress |
+| Analyze Network Packets with Wireshark | In progress |
 
 #### Tools
 
-[Provide tools and break them down into categories.]
-
 ##### Network
 <div>
-Network Tool logo.
-Network Tool logo.
-Network Tool logo.
+<img src="https://img.shields.io/badge/-Wireshark-1E5E8C?&style=flat&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nmap-00ADEF?&style=flat&logo=nmap&logoColor=white"/>
 </div>
 
-##### Endpoint
+##### Web Application
 <div>
-Endpoint Tool logo.
-Endpoint Tool logo.
-Endpoint Tool logo.
+<img src="https://img.shields.io/badge/-Burp%20Suite-8A2D2D?&style=flat&logo=burp&logoColor=white"/>
 </div>
-
-##### SIEM
-<div>
-SIEM Tool logo.
-SIEM Tool logo.
-SIEM Tool logo.
-</div><br>
 
 #### Projects
 
-**Projects under development**
+- Build a Security Operation Center Home Lab (In Progress)
+- Network Scanning with NMap (Future Project)
+- Vulnerability Scanning with Burp Suite (Future Project)
+- Analyze Network Packets with Wireshark (Future Project)
