@@ -4,3 +4,6 @@ description: Minimal is a theme for GitHub Pages.
 show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
+github:
+  zip_url: www.linkedin.com/in/brian-smith-853a17223
+  another_url: another value
