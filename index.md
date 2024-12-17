@@ -14,6 +14,8 @@ To leverage my IT experience, certifications, and growing cybersecurity expertis
 
 ### Certifications
 
+<img src="https://img.shields.io/badge/-CompTIA%20A+-E60000?&style=for-the-badge&logo=comptia&logoColor=white" />
+
 #### Header 3
 
 ```js
