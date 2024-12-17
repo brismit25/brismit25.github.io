@@ -14,7 +14,7 @@ To leverage my IT experience, certifications, and growing cybersecurity expertis
 
 ### Certifications
 
-<a href=file:///C:/Users/brian/iCloudDrive/Documents/Resume%20&%20Certifications/CompTIA%20A+%20ce%20certificate.pdf><img src="https://img.shields.io/badge/-CompTIA%20A+-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
+<a img src="certifications/CompTIA A+.png"></a>
 <img src="https://img.shields.io/badge/-CompTIA%20Network+-E60000?&style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-E60000?&style=for-the-badge&logo=comptia&logoColor=white" />
 
