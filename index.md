@@ -12,12 +12,6 @@ This portfolio highlights my projects, certifications, and continuous progress a
 
 To leverage my IT experience, certifications, and growing cybersecurity expertise to secure a Cybersecurity Analyst role. My goal is to contribute to threat detection, risk mitigation, and system security while continuously enhancing my skills to protect organizational assets against evolving cyber threats.
 
-### Certifications
-
-<a href="certifications/CompTIA A+.png"><img src="https://img.shields.io/badge/-CompTIA%20A+-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="certifications/CompTIA Network+.png"><img src="https://img.shields.io/badge/-CompTIA%20Network+-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="certifications/CompTIA Security+.png"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
-
 #### Skills
 
 | Skill | Associated Project |
@@ -27,28 +21,36 @@ To leverage my IT experience, certifications, and growing cybersecurity expertis
 | Test | <a href="https://google.com">Test Link</a> |
 | Test | <a href="https://google.com">Test Link</a> |
 
-#### Header 3
+#### Certifications
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<a href="certifications/CompTIA A+.png"><img src="https://img.shields.io/badge/-CompTIA%20A+-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
+<a href="certifications/CompTIA Network+.png"><img src="https://img.shields.io/badge/-CompTIA%20Network+-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
+<a href="certifications/CompTIA Security+.png"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-E60000?&style=for-the-badge&logo=comptia&logoColor=white"></a>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### Tools
 
-#### Header 4
+[Provide tools and break them down into categories.]
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+##### Network
+<div>
+*   Network Tool logo.
+*   Network Tool logo.
+*   Network Tool logo.
+</div>
+
+##### Endpoint
+<div>
+*   Endpoint Tool logo.
+*   Endpoint Tool logo.
+*   Endpoint Tool logo.
+</div>
+
+##### SIEM
+<div>
+*   SIEM Tool logo.
+*   SIEM Tool logo.
+*   SIEM Tool logo.
+</div>
 
 #### Header 5
 
