@@ -20,12 +20,12 @@ To leverage my IT experience, certifications, and growing cybersecurity expertis
 
 #### Skills
 
-| Skill        | Associated Project|
-|:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+| Skill          | Associated Project                         |
+|:-------------  |:------------------                         |
+| Test           | <a href="https://google.com">Test Link</a> |
+| out of stock   | <a href="https://google.com">Test Link</a> |
+| ok             | <a href="https://google.com">Test Link</a> |
+| ok             | <a href="https://google.com">Test Link</a> |
 
 #### Header 3
 
