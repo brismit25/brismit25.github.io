@@ -12,7 +12,9 @@ This portfolio highlights my projects, certifications, and continuous progress a
 
 To leverage my IT experience, certifications, and growing cybersecurity expertise to secure a Cybersecurity Analyst role. My goal is to contribute to threat detection, risk mitigation, and system security while continuously enhancing my skills to protect organizational assets against evolving cyber threats.
 
-### Header 3
+### Certifications
+
+#### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -35,13 +37,13 @@ end
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+#### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+#### Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -50,25 +52,25 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+#### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
+#### Here is an unordered list:
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
 
-### And an ordered list:
+#### And an ordered list:
 
 1.  Item one
 1.  Item two
 1.  Item three
 1.  Item four
 
-### And a nested list:
+#### And a nested list:
 
 - level 1 item
   - level 2 item
@@ -84,16 +86,16 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+#### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+#### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+#### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
