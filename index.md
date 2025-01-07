@@ -36,7 +36,7 @@ My goal is to leverage my IT background, certifications, and expanding cybersecu
 
 ### Projects
 
-- Home SOC Lab Setup (In Progress)
-- Network Scanning with NMap (Future Project)
-- Vulnerability Scanning with Burp Suite (Future Project)
-- Analyze Network Packets with Wireshark (Future Project)
+- [Home SOC Lab Setup (In Progress)](https://brismit25.github.io/Home-SOC-Lab-Setup/)
+- [Network Scanning with NMap (Future Project)](#)
+- [Vulnerability Scanning with Burp Suite (Future Project)](#)
+- [Analyze Network Packets with Wireshark (Future Project)](#)
