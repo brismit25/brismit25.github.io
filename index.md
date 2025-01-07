@@ -16,7 +16,7 @@ My goal is to leverage my IT background, certifications, and expanding cybersecu
 
 | Skill | Associated Project | Description |
 |:------------- |:------------------ | :------------- |
-| Network Monitoring and Threat Detection | Home SOC Lab Setup (In Progress) | Developed skills in configuring a Security Operations Center (SOC) for hands-on practice with tools for monitoring, detecting, and responding to threats. |
+| Network Monitoring and Threat Detection | [Home SOC Lab Setup (In Progress)](https://brismit25.github.io/Home-SOC-Lab-Setup/) | Developed skills in configuring a Security Operations Center (SOC) for hands-on practice with tools for monitoring, detecting, and responding to threats. |
 | Network Scanning and Vulnerability Assessment | Network Scanning with NMap (Future Project) | Learned to use NMap for identifying vulnerabilities, misconfigurations, and active devices in network infrastructures. |
 | Web Application Security Testing | Vulnerability Scanning with Burp Suite (Future Project) | Acquired skills in using Burp Suite to identify web application vulnerabilities, including testing for common exploits and improving application security. |
 | Packet-Level Network Analysis | Analyze Network Packets with Wireshark (Future Project) | Gained expertise in analyzing network traffic using Wireshark to detect anomalies, troubleshoot network issues, and understand packet-level communication. |
