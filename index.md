@@ -16,10 +16,10 @@ My goal is to leverage my IT background, certifications, and expanding cybersecu
 
 | Skill | Associated Project | Description |
 |:------------- |:------------------ | :------------- |
-| Home SOC Lab Setup | In progress | Building and configuring a Security Operations Center (SOC) lab for hands-on practice with network monitoring, threat detection, and incident response. |
-| Network Scanning with NMap | Future Project | Learning to perform network scans to identify vulnerabilities and misconfigurations using NMap for better understanding of network security. |
-| Vulnerability Scanning with Burp Suite | Future Project | Exploring the use of Burp Suite to identify and exploit vulnerabilities in web applications, enhancing knowledge of web security. |
-| Analyze Network Packets with Wireshark | Future Project | Analyzing network traffic with Wireshark to detect anomalies, troubleshoot network issues, and improve packet-level analysis skills. |
+| Network Monitoring and Threat Detection | Home SOC Lab Setup (In Progress) | Developed skills in configuring a Security Operations Center (SOC) for hands-on practice with tools for monitoring, detecting, and responding to threats. |
+| Network Scanning and Vulnerability Assessment | Network Scanning with NMap (Future Project) | Learned to use NMap for identifying vulnerabilities, misconfigurations, and active devices in network infrastructures. |
+| Web Application Security Testing | Vulnerability Scanning with Burp Suite (Future Project) | Acquired skills in using Burp Suite to identify web application vulnerabilities, including testing for common exploits and improving application security. |
+| Packet-Level Network Analysis | Analyze Network Packets with Wireshark (Future Project) | Gained expertise in analyzing network traffic using Wireshark to detect anomalies, troubleshoot network issues, and understand packet-level communication. |
 
 ### Tools
 
@@ -36,7 +36,7 @@ My goal is to leverage my IT background, certifications, and expanding cybersecu
 
 ### Projects
 
-- Build a Security Operation Center Home Lab (In Progress)
+- Home SOC Lab Setup (In Progress)
 - Network Scanning with NMap (Future Project)
 - Vulnerability Scanning with Burp Suite (Future Project)
 - Analyze Network Packets with Wireshark (Future Project)
