@@ -6,11 +6,11 @@ layout: default
 
 Hello! I’m Brian Smith, an aspiring cybersecurity professional with a solid foundation in IT support, incident response, and problem-solving. My journey in cybersecurity began through my studies for the CompTIA certifications and my pursuit of a Bachelor's degree in Cybersecurity at <em>The University of Southern Mississippi</em>. Along the way, I have gained valuable knowledge in network security, system hardening, threat detection, and incident management.
 
-I am passionate about solving complex cybersecurity challenges and currently focused on building my expertise in incident response and securing digital infrastructures. As I continue to grow my hands-on experience, I am eager to contribute to cybersecurity efforts, mitigate risks, and help organizations stay ahead of emerging cyber threats.
+I am passionate about solving complex cybersecurity challenges. I am currently focused on building my expertise in incident response and securing digital infrastructures. As I grow my hands-on experience, I am eager to contribute to cybersecurity efforts, mitigate risks, and help organizations avoid emerging cyber threats.
 
 ### Objective
 
-My goal is to leverage my IT background, certifications, and expanding cybersecurity expertise to secure a role as a Cybersecurity Analyst. I am committed to contributing to effective threat detection, risk mitigation, and system security while continuously developing my skills to protect organizational assets from evolving cyber threats.
+I aim to leverage my IT background, certifications, and expanding cybersecurity expertise to secure a role as a Cybersecurity Analyst. I am committed to contributing to effective threat detection, risk mitigation, and system security while continuously developing my skills to protect organizational assets from evolving cyber threats.
 
 ### Skills
 
@@ -32,6 +32,11 @@ My goal is to leverage my IT background, certifications, and expanding cybersecu
 #### Web Application
 <div>
 <img src="https://img.shields.io/badge/-Burp%20Suite-8A2D2D?&style=flat&logo=burp&logoColor=white"/>
+</div><br>
+
+#### Malware Reverse Engineering
+<div>
+  <img src="https://img.shields.io/badge/-Ghidra-DA251D?&style=flat&logo=ghidra&logoColor=white"/>
 </div><br>
 
 ### Projects
