@@ -27,17 +27,17 @@ I aim to leverage my IT background, certifications, and expanding cybersecurity 
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1E5E8C?&style=flat&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Nmap-00ADEF?&style=flat&logo=nmap&logoColor=white"/>
-</div><br>
+</div>
 
 #### Web Application
 <div>
 <img src="https://img.shields.io/badge/-Burp%20Suite-8A2D2D?&style=flat&logo=burp&logoColor=white"/>
-</div><br>
+</div>
 
 #### Malware Reverse Engineering
 <div>
   <img src="https://img.shields.io/badge/-Ghidra-DA251D?&style=flat&logo=ghidra&logoColor=white"/>
-</div><br>
+</div>
 
 ### Projects
 
